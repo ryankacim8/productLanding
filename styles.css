@@ -1,0 +1,10 @@
+#nav-bar{
+    display:flex;
+  }
+  @media screen and(min-width:600px){
+    iframe{
+      width:560px;
+      height:315px;
+    }
+  }
+  
